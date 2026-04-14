@@ -3,6 +3,9 @@ Trabalho prático da disciplina de Estruturas de Dados do curso de Engenharia de
 Aluno: Lucas Henrique Martins Petronilho
 Matrícula: 2023060600
 
+Aluna: Victória Thalita Ibrahim Pereira
+Matrícula: 2023060677
+
 Descrição
 
 O programa realiza a leitura de um arquivo texto contendo múltiplas linhas no formato:
